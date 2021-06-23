@@ -2,5 +2,5 @@ body {
   overflow: hidden;
 }
 canvas {
-  background-color: #000000;
+  background-color: #000000;//背景の色の指定
 }
